@@ -2,7 +2,7 @@
 
 int main()
 {
-	printf("请输入圆柱体的半径r和高h\n");
+	printf("璇疯緭鍏ュ渾鏌变綋鐨勫崐寰剅鍜岄珮h\n");
 	float pi=3.14;
 	float r=0;
 	float h=0;
